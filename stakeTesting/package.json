@@ -1,0 +1,11 @@
+{
+  "name": "erc721",
+  "version": "1.0.0",
+  "description": "= ERC 721",
+  "main": "index.js",
+  "scripts": {
+    "start": "remixd -s ./ --remix-ide https://remix.ethereum.org"
+  },
+  "author": "",
+  "license": "ISC"
+}

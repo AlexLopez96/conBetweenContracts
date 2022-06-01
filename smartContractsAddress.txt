@@ -1,0 +1,24 @@
+sc1
+0x6056C0e896B5E525db2277075bEA63c274D97924
+
+sc2
+0xeE5730D677260dAF17E5c9BbB5e5a0d31fe9628E
+
+---------
+
+
+sc1:
+0x3B6c4769e3f97cbF173C70408fDbF0E7B6D4b75C
+
+sc2:
+0x1FE1e732f8bC52c8d8D912C367aE39d2D92C8f43
+
+
+
+----------
+zertifierNFT sc:
+0xedFe19341f9AfBDD59024cd132332d3BBc114abd
+
+https://dev.to/turupawn/staking-de-nfts-en-solidity-d61  <--- WORKING
+
+https://hackernoon.com/implementing-staking-in-solidity-1687302a82cf
